@@ -1,0 +1,550 @@
+2020-09-15 12:07:48,810:INFO:Palletline POD's uploaded to FCL
+2020-09-15 12:07:49,994:INFO:Status file PLStatus-2020-09-15120746.xml uploaded to FCL
+2020-09-15 12:09:46,959:INFO:No Palletline POD's available
+2020-09-15 12:09:47,160:INFO:No Palletline status updates available
+2020-09-15 12:32:17,598:INFO:No Palletline POD's available
+2020-09-15 12:32:20,586:INFO:Status file PLStatus-2020-09-15123217.xml uploaded to FCL
+2020-09-15 12:36:00,877:INFO:No Palletline POD's available
+2020-09-15 12:36:01,065:INFO:No Palletline status updates available
+2020-09-15 12:36:13,345:INFO:No Palletline POD's available
+2020-09-15 12:36:16,295:INFO:Status file PLStatus-2020-09-15123613.xml uploaded to FCL
+2020-09-15 13:42:00,793:INFO:No Palletline POD's available
+2020-09-15 13:42:04,149:INFO:Status file PLSTAT_2020-09-15134159.xml uploaded to FCL
+2020-09-15 13:44:14,334:INFO:No Palletline POD's available
+2020-09-15 13:44:14,539:INFO:No Palletline status updates available
+2020-09-15 13:44:29,996:INFO:No Palletline POD's available
+2020-09-15 13:44:33,073:INFO:Status file STAT_PL_2020-09-15134429.xml uploaded to FCL
+2020-09-15 13:46:48,234:INFO:No Palletline POD's available
+2020-09-15 13:46:48,413:INFO:No Palletline status updates available
+2020-09-15 13:47:03,340:INFO:No Palletline POD's available
+2020-09-15 13:47:06,165:INFO:Status file STAT_PL_20200915134703.xml uploaded to FCL
+2020-09-15 13:52:29,292:INFO:No Palletline POD's available
+2020-09-15 13:52:36,775:INFO:Status file STAT_PL_20200915135228.xml uploaded to FCL
+2020-09-15 14:31:59,308:INFO:No Palletline POD's available
+2020-09-15 14:32:02,266:INFO:Status file STAT_PL_20200915143159.xml uploaded to FCL
+2020-09-15 15:29:39,134:INFO:No Palletline POD's available
+2020-09-15 15:29:43,816:INFO:Status file STAT_PL_20200915152938.xml uploaded to FCL
+2020-09-15 15:36:42,312:INFO:No Palletline POD's available
+2020-09-15 15:36:46,539:INFO:Status file STAT_PL_20200915153642.xml uploaded to FCL
+2020-09-15 15:38:04,483:INFO:No Palletline POD's available
+2020-09-15 15:38:09,409:INFO:Status file STAT_PL_20200915153804.xml uploaded to FCL
+2020-09-15 15:40:59,322:INFO:No Palletline POD's available
+2020-09-15 15:41:08,958:INFO:Status file STAT_PL_20200915154059.xml uploaded to FCL
+2020-09-15 15:44:19,236:INFO:No Palletline POD's available
+2020-09-15 15:44:22,852:INFO:Status file STAT_PL_20200915154418.xml uploaded to FCL
+2020-09-15 17:45:42,120:INFO:No Palletline POD's available
+2020-09-18 10:57:37,994:INFO:No Palletline POD's available
+2020-09-18 10:58:34,286:INFO:No Palletline status updates available
+2020-09-18 11:01:07,304:ERROR:Failed to send POD's to FCL
+2020-09-18 11:01:07,699:ERROR:Failed to download POD's from Palletline
+2020-09-18 11:11:14,881:ERROR:Failed to send POD's to FCL
+2020-09-18 11:11:15,181:INFO:No Palletline status updates available
+2020-09-18 11:13:13,019:INFO:No Palletline status updates available
+2020-09-18 11:13:36,034:INFO:No Palletline status updates available
+2020-09-18 11:15:23,220:INFO:No Palletline status updates available
+2020-09-18 11:16:05,060:INFO:No Palletline status updates available
+2020-09-18 11:22:59,684:INFO:No Palletline status updates available
+2020-09-18 11:23:32,543:INFO:No Palletline status updates available
+2020-09-18 11:24:03,135:INFO:No Palletline status updates available
+2020-09-18 11:39:25,065:INFO:No Palletline status updates available
+2020-09-18 11:40:07,531:INFO:No Palletline status updates available
+2020-09-18 11:54:48,463:INFO:No Palletline POD's available
+2020-09-18 11:54:48,684:INFO:No Palletline status updates available
+2020-09-18 11:54:58,322:INFO:No Palletline POD's available
+2020-09-18 11:54:58,977:INFO:No Palletline status updates available
+2020-09-18 12:05:34,936:INFO:No Palletline POD's available
+2020-09-18 12:07:36,079:INFO:No Palletline POD's available
+2020-09-18 12:07:36,255:INFO:No Palletline status updates available
+2020-09-18 12:08:09,800:INFO:No Palletline POD's available
+2020-09-18 12:08:44,535:INFO:No Palletline POD's available
+2020-09-18 12:08:44,835:INFO:No Palletline status updates available
+2020-09-18 12:08:54,839:INFO:No Palletline POD's available
+2020-09-18 12:10:12,282:INFO:No Palletline POD's available
+2020-09-18 12:10:12,526:INFO:No Palletline status updates available
+2020-09-18 12:10:22,273:INFO:No Palletline POD's available
+2020-09-18 12:10:31,036:INFO:No Palletline POD's available
+2020-09-18 12:10:31,227:INFO:No Palletline status updates available
+2020-09-18 12:10:59,355:INFO:No Palletline POD's available
+2020-09-18 12:10:59,599:INFO:No Palletline status updates available
+2020-09-18 12:11:36,154:INFO:No Palletline status updates available
+2020-09-18 12:11:52,365:INFO:No Palletline status updates available
+2020-09-18 12:20:19,730:INFO:No Palletline status updates available
+2020-09-19 14:39:10,955:INFO:No Palletline status updates available
+2020-09-19 14:40:02,956:INFO:No Palletline status updates available
+2020-09-19 14:44:09,277:INFO:No Palletline status updates available
+2020-09-19 14:45:03,376:INFO:No Palletline POD's available
+2020-09-19 14:45:03,538:INFO:No Palletline status updates available
+2020-09-19 14:45:11,704:INFO:No Palletline POD's available
+2020-09-19 14:47:36,048:INFO:No Palletline POD's available
+2020-09-19 14:47:36,206:INFO:No Palletline status updates available
+2020-09-19 14:47:42,503:INFO:No Palletline POD's available
+2020-09-19 16:21:54,121:INFO:No Palletline POD's available
+2020-09-19 16:21:54,306:INFO:No Palletline status updates available
+2020-09-19 16:22:01,912:INFO:No Palletline POD's available
+2020-09-19 16:22:50,873:INFO:No Palletline POD's available
+2020-09-19 16:22:51,031:INFO:No Palletline status updates available
+2020-09-19 16:22:57,812:INFO:No Palletline POD's available
+2020-09-19 16:26:44,856:INFO:No Palletline POD's available
+2020-09-19 16:26:45,025:INFO:No Palletline status updates available
+2020-09-19 16:26:52,713:INFO:No Palletline POD's available
+2020-09-19 16:27:39,782:INFO:No Palletline POD's available
+2020-09-19 16:28:58,719:INFO:No Palletline POD's available
+2020-09-19 16:30:51,293:INFO:No Palletline POD's available
+2020-09-19 16:30:51,450:INFO:No Palletline status updates available
+2020-09-19 16:30:57,614:INFO:No Palletline POD's available
+2020-09-19 16:34:44,548:INFO:No Palletline POD's available
+2020-09-19 16:35:06,596:ERROR:FTP Error: Status XML STAT_PL_20200919163441.xml failed FTP upload to FCL
+2020-09-19 16:40:19,779:INFO:No Palletline POD's available
+2020-09-19 16:40:41,881:ERROR:FTP Error: Status XML STAT_PL_20200919164019.xml failed FTP upload to FCL
+2020-09-19 16:41:37,474:INFO:No Palletline POD's available
+2020-09-19 16:41:59,567:ERROR:FTP Error: Status XML STAT_PL_20200919164137.xml failed FTP upload to FCL
+2020-09-20 08:45:12,355:INFO:No Palletline POD's available
+2020-09-20 08:45:35,073:ERROR:FTP Error: Status XML STAT_PL_20200920084511.xml failed FTP upload to FCL
+2020-09-20 13:12:18,199:INFO:No Palletline POD's available
+2020-09-20 13:12:18,365:INFO:No Palletline status updates available
+2020-09-20 13:12:38,702:INFO:No Palletline POD's available
+2020-09-20 13:12:38,855:INFO:No Palletline status updates available
+2020-09-20 13:25:57,900:INFO:No Palletline POD's available
+2020-09-20 13:25:58,003:ERROR:Unable to connect to Palletline Web Service
+2020-09-20 13:27:36,280:INFO:No Palletline POD's available
+2020-09-20 13:27:36,385:ERROR:Unable to connect to Palletline Web Service
+2020-09-20 13:29:15,964:INFO:No Palletline POD's available
+2020-09-20 13:29:16,075:ERROR:Unable to connect to Palletline Web Service
+2020-09-20 13:31:07,079:INFO:No Palletline POD's available
+2020-09-20 13:31:07,180:ERROR:Unable to connect to Palletline Web Service
+2020-09-20 13:33:29,041:INFO:No Palletline POD's available
+2020-09-20 13:33:29,138:ERROR:Unable to connect to Palletline Web Service
+2020-09-20 13:34:02,770:INFO:No Palletline POD's available
+2020-09-20 13:34:02,870:ERROR:Unable to connect to Palletline Web Service
+2020-09-20 13:35:48,710:INFO:No Palletline POD's available
+2020-09-20 13:35:48,811:ERROR:Unable to connect to Palletline Web Service
+2020-09-20 13:40:04,037:INFO:No Palletline POD's available
+2020-09-20 13:40:04,145:ERROR:Unable to connect to Palletline Web Service
+2020-09-20 13:43:26,863:INFO:No Palletline POD's available
+2020-09-20 13:43:26,963:ERROR:Unable to connect to Palletline Web Service
+2020-09-20 13:50:29,247:INFO:No Palletline POD's available
+2020-09-20 13:50:29,408:INFO:No Palletline status updates available
+2020-09-20 13:59:19,010:INFO:No Palletline POD's available
+2020-09-20 13:59:19,165:INFO:No Palletline status updates for Depot: 152 available
+2020-09-20 14:00:02,876:INFO:No Palletline POD's available
+2020-09-20 14:00:03,027:INFO:No Palletline status updates for Depot: 152 available
+2020-09-20 14:00:53,658:INFO:No Palletline POD's available
+2020-09-20 14:00:53,817:INFO:No Palletline status updates for Depot: 152 available
+2020-09-20 17:04:30,343:INFO:No Palletline POD's available
+2020-09-20 17:04:30,501:INFO:No Palletline status updates for Depot: 152 available
+2020-09-20 17:05:40,032:INFO:No Palletline POD's available
+2020-09-20 17:05:40,197:INFO:No Palletline status updates for Depot: 152 available
+2020-09-20 17:05:40,371:INFO:No Palletline POD's available
+2020-09-20 17:05:40,518:INFO:No Palletline status updates for Depot: 182 available
+2020-09-20 17:06:07,505:INFO:No Palletline POD's available
+2020-09-20 17:06:13,113:INFO:No Palletline status updates for Depot: 152 available
+2020-09-20 17:06:13,293:INFO:No Palletline POD's available
+2020-09-20 17:06:13,434:INFO:No Palletline status updates for Depot: 182 available
+2020-09-20 17:12:43,534:INFO:No Palletline POD's available
+2020-09-20 17:12:43,692:INFO:No Palletline status updates for Depot: 152 available
+2020-09-20 17:12:43,864:INFO:No Palletline POD's available
+2020-09-20 17:12:44,006:INFO:No Palletline status updates for Depot: 182 available
+2020-09-20 17:13:01,376:INFO:No Palletline POD's available
+2020-09-20 17:13:05,936:INFO:No Palletline status updates for Depot: 152 available
+2020-09-20 17:13:06,105:INFO:No Palletline POD's available
+2020-09-20 17:13:06,906:INFO:No Palletline status updates for Depot: 182 available
+2020-09-20 17:15:04,852:INFO:No Palletline POD's available
+2020-09-20 17:15:04,994:INFO:No Palletline status updates for Depot: 152 available
+2020-09-20 17:15:05,164:INFO:No Palletline POD's available
+2020-09-20 17:15:05,300:INFO:No Palletline status updates for Depot: 182 available
+2020-09-20 17:16:00,614:INFO:No Palletline POD's available
+2020-09-20 17:16:05,256:INFO:No Palletline status updates for Depot: 152 available
+2020-09-20 17:16:05,424:INFO:No Palletline POD's available
+2020-09-20 17:16:06,100:INFO:No Palletline status updates for Depot: 182 available
+2020-09-20 17:16:32,136:INFO:No Palletline POD's available
+2020-09-20 17:16:32,287:INFO:No Palletline status updates for Depot: 152 available
+2020-09-20 17:16:32,459:INFO:No Palletline POD's available
+2020-09-20 17:16:32,592:INFO:No Palletline status updates for Depot: 182 available
+2020-09-20 17:17:09,799:INFO:No Palletline POD's available
+2020-09-20 17:17:14,497:INFO:No Palletline status updates for Depot: 152 available
+2020-09-20 17:17:14,664:INFO:No Palletline POD's available
+2020-09-20 17:17:15,327:INFO:No Palletline status updates for Depot: 182 available
+2020-09-20 17:17:38,148:INFO:No Palletline POD's available
+2020-09-20 17:17:45,568:INFO:No Palletline status updates for Depot: 152 available
+2020-09-20 17:17:45,738:INFO:No Palletline POD's available
+2020-09-20 17:17:46,610:INFO:No Palletline status updates for Depot: 182 available
+2020-09-20 17:23:37,693:INFO:No Palletline POD's available
+2020-09-20 17:23:37,839:INFO:No Palletline status updates for Depot: 152 available
+2020-09-20 17:23:38,009:INFO:No Palletline POD's available
+2020-09-20 17:23:38,152:INFO:No Palletline status updates for Depot: 182 available
+2020-09-20 17:23:48,098:INFO:No Palletline POD's available
+2020-09-20 17:24:17,433:INFO:No Palletline POD's available
+2020-09-20 17:24:22,048:INFO:No Palletline status updates for Depot: 152 available
+2020-09-20 17:24:22,218:INFO:No Palletline POD's available
+2020-09-20 17:24:22,880:INFO:No Palletline status updates for Depot: 182 available
+2020-09-20 17:24:35,057:INFO:No Palletline POD's available
+2020-09-20 17:25:53,323:INFO:No Palletline POD's available
+2020-09-20 17:26:27,719:INFO:No Palletline POD's available
+2020-09-20 17:27:07,566:INFO:No Palletline POD's available
+2020-09-20 17:30:17,056:INFO:No Palletline POD's available
+2020-09-20 17:33:14,218:INFO:No Palletline POD's available
+2020-09-20 17:33:42,138:ERROR:FTP Error: Status XML STAT_PL_152_20200920173314.xml failed FTP upload to FCL
+2020-09-20 17:39:45,211:INFO:No Palletline POD's available
+2020-09-20 17:39:52,415:INFO:Status file STAT_PL_152_20200920173944.xml uploaded to FCL
+2020-09-20 17:39:52,653:INFO:No Palletline POD's available
+2020-09-20 17:39:53,832:INFO:Status file STAT_PL_182_20200920173952.xml uploaded to FCL
+2020-09-20 17:42:37,160:INFO:No Palletline POD's available
+2020-09-20 17:42:42,122:INFO:Status file STAT_PL_152_20200920174236.xml uploaded to FCL
+2020-09-20 17:42:42,371:INFO:No Palletline POD's available
+2020-09-20 17:42:43,409:INFO:Status file STAT_PL_182_20200920174242.xml uploaded to FCL
+2020-09-20 17:46:44,139:INFO:No Palletline POD's available
+2020-09-20 17:46:49,216:INFO:Status file STAT_PL_152_20200920174643.xml uploaded to FCL
+2020-09-20 17:46:49,458:INFO:No Palletline POD's available
+2020-09-20 17:46:50,508:INFO:Status file STAT_PL_182_20200920174649.xml uploaded to FCL
+2020-09-20 17:48:03,836:INFO:No Palletline POD's available
+2020-09-20 17:48:28,030:INFO:No Palletline POD's available
+2020-09-20 17:48:35,233:INFO:Status file STAT_PL_152_20200920174827.xml uploaded to FCL
+2020-09-20 17:48:35,478:INFO:No Palletline POD's available
+2020-09-20 17:48:36,745:INFO:Status file STAT_PL_182_20200920174835.xml uploaded to FCL
+2020-09-21 09:15:22,816:INFO:No Palletline POD's available
+2020-09-21 10:24:38,281:INFO:No Palletline POD's available
+2020-09-21 11:07:40,893:INFO:No Palletline POD's available
+2020-09-21 11:07:42,228:INFO:Status file STAT_PL_152_20200921110740.xml uploaded to FCL
+2020-09-21 11:07:42,470:INFO:No Palletline POD's available
+2020-09-21 11:09:40,681:INFO:No Palletline POD's available
+2020-09-21 11:09:42,354:INFO:Status file STAT_PL_152_20200921110940.xml uploaded to FCL
+2020-09-21 11:09:42,636:INFO:No Palletline POD's available
+2020-09-21 11:15:38,243:INFO:No Palletline POD's available
+2020-09-21 11:16:04,273:INFO:No Palletline POD's available
+2020-09-21 11:16:05,517:INFO:Status file STAT_PL_152_20200921111603.xml uploaded to FCL
+2020-09-21 11:16:05,755:INFO:No Palletline POD's available
+2020-09-21 11:18:46,109:INFO:No Palletline POD's available
+2020-09-21 11:18:47,566:INFO:Status file STAT_PL_152_20200921111845.xml uploaded to FCL
+2020-09-21 11:18:47,828:INFO:No Palletline POD's available
+2020-09-21 11:20:30,815:INFO:No Palletline POD's available
+2020-09-21 11:20:32,125:INFO:Status file STAT_PL_152_20200921112030.xml uploaded to FCL
+2020-09-21 11:20:32,369:INFO:No Palletline POD's available
+2020-09-21 11:21:56,973:INFO:No Palletline POD's available
+2020-09-21 11:21:58,489:INFO:Status file STAT_PL_152_20200921112156.xml uploaded to FCL
+2020-09-21 11:21:58,748:INFO:No Palletline POD's available
+2020-09-21 11:26:04,781:INFO:No Palletline POD's available
+2020-09-21 11:26:06,046:INFO:Status file STAT_PL_152_20200921112604.xml uploaded to FCL
+2020-09-21 11:26:06,297:INFO:No Palletline POD's available
+2020-09-21 11:46:16,869:INFO:No Palletline POD's available
+2020-09-21 11:46:19,430:INFO:Status file STAT_PL_152_20200921114616.xml uploaded to FCL
+2020-09-21 11:46:19,677:INFO:No Palletline POD's available
+2020-09-21 14:54:50,937:INFO:No Palletline POD's available
+2020-09-21 14:54:53,766:INFO:Status file STAT_PL_152_20200921145450.xml uploaded to FCL
+2020-09-21 14:54:54,002:INFO:No Palletline POD's available
+2020-09-21 15:01:18,073:INFO:No Palletline POD's available
+2020-09-21 15:01:20,926:INFO:Status file STAT_PL_152_20200921150117.xml uploaded to FCL
+2020-09-21 15:01:21,425:INFO:No Palletline POD's available
+2020-09-21 15:03:03,419:INFO:No Palletline POD's available
+2020-09-21 15:03:05,188:INFO:Status file STAT_PL_152_20200921150303.xml uploaded to FCL
+2020-09-21 15:03:05,459:INFO:No Palletline POD's available
+2020-09-21 15:03:56,078:INFO:No Palletline POD's available
+2020-09-21 15:03:59,235:INFO:Status file STAT_PL_152_20200921150355.xml uploaded to FCL
+2020-09-21 15:03:59,505:INFO:No Palletline POD's available
+2020-09-21 15:05:29,097:INFO:No Palletline POD's available
+2020-09-21 15:05:30,759:INFO:Status file STAT_PL_152_20200921150528.xml uploaded to FCL
+2020-09-21 15:05:30,990:INFO:No Palletline POD's available
+2020-09-21 15:06:40,727:INFO:No Palletline POD's available
+2020-09-21 15:07:24,159:INFO:No Palletline POD's available
+2020-09-21 15:07:26,307:INFO:Status file STAT_PL_152_20200921150723.xml uploaded to FCL
+2020-09-21 15:07:26,546:INFO:No Palletline POD's available
+2020-09-21 15:12:00,140:INFO:No Palletline POD's available
+2020-09-21 15:12:02,191:INFO:Status file STAT_PL_152_20200921151159.xml uploaded to FCL
+2020-09-21 15:12:02,433:INFO:No Palletline POD's available
+2020-09-21 15:16:01,642:INFO:No Palletline POD's available
+2020-09-21 15:16:03,497:INFO:Status file STAT_PL_152_20200921151601.xml uploaded to FCL
+2020-09-21 15:16:03,762:INFO:No Palletline POD's available
+2020-09-21 15:16:49,489:INFO:No Palletline POD's available
+2020-09-21 15:16:51,520:INFO:Status file STAT_PL_152_20200921151649.xml uploaded to FCL
+2020-09-21 15:16:51,758:INFO:No Palletline POD's available
+2020-09-21 15:22:15,303:INFO:No Palletline POD's available
+2020-09-21 15:22:16,779:INFO:Status file STAT_PL_152_20200921152215.xml uploaded to FCL
+2020-09-21 15:22:17,008:INFO:No Palletline POD's available
+2020-09-21 15:23:15,666:INFO:No Palletline POD's available
+2020-09-21 15:23:19,647:INFO:Status file STAT_PL_152_20200921152315.xml uploaded to FCL
+2020-09-21 15:23:19,895:INFO:No Palletline POD's available
+2020-09-21 15:23:21,300:INFO:Status file STAT_PL_182_20200921152319.xml uploaded to FCL
+2020-09-21 15:42:16,946:INFO:No Palletline status updates for Depot: 152 available
+2020-09-21 15:42:17,171:INFO:No Palletline POD's available
+2020-09-21 15:48:58,073:INFO:No Palletline status updates for Depot: 152 available
+2020-09-21 15:48:58,304:INFO:No Palletline POD's available
+2020-09-21 15:48:58,835:INFO:Status file STAT_PL_182_20200921154858.xml uploaded to FCL
+2020-09-21 15:48:59,067:INFO:No Palletline POD's available
+2020-09-21 15:51:00,352:INFO:No Palletline status updates for Depot: 152 available
+2020-09-21 15:51:00,575:INFO:No Palletline POD's available
+2020-09-21 15:51:00,766:INFO:No Palletline status updates for Depot: 182 available
+2020-09-21 15:51:00,985:INFO:No Palletline POD's available
+2020-09-21 15:52:37,476:INFO:Status file STAT_PL_152_20200921155235.xml uploaded to FCL
+2020-09-21 15:52:37,711:INFO:No Palletline POD's available
+2020-09-21 15:52:38,902:INFO:Status file STAT_PL_182_20200921155237.xml uploaded to FCL
+2020-09-21 15:52:39,133:INFO:No Palletline POD's available
+2020-09-22 11:44:50,570:INFO:Status file STAT_PL_152_20200922114447.xml uploaded to FCL
+2020-09-22 11:44:50,986:ERROR:Failed to download POD's from Palletline
+2020-09-22 11:44:53,559:INFO:Status file STAT_PL_182_20200922114451.xml uploaded to FCL
+2020-09-22 11:44:54,030:ERROR:Failed to download POD's from Palletline
+2020-09-22 12:01:12,972:INFO:No Palletline status updates for Depot: 152 available
+2020-09-22 12:01:13,677:INFO:Status file STAT_PL_182_20200922120113.xml uploaded to FCL
+2020-09-22 12:01:14,080:ERROR:Failed to download POD's from Palletline
+2020-09-22 12:13:15,627:INFO:No Palletline status updates for Depot: 152 available
+2020-09-22 12:13:16,332:INFO:Status file STAT_PL_182_20200922121315.xml uploaded to FCL
+2020-09-22 12:13:17,290:ERROR:Failed to download POD's from Palletline
+2020-09-22 12:22:36,932:INFO:No Palletline status updates for Depot: 152 available
+2020-09-22 12:22:37,645:INFO:Status file STAT_PL_182_20200922122237.xml uploaded to FCL
+2020-09-22 12:23:39,488:INFO:No Palletline status updates for Depot: 152 available
+2020-09-22 12:23:39,892:INFO:No Palletline status updates for Depot: 182 available
+2020-09-22 12:24:18,901:INFO:No Palletline status updates for Depot: 152 available
+2020-09-22 12:24:19,303:INFO:No Palletline status updates for Depot: 182 available
+2020-09-22 12:27:04,690:INFO:No Palletline status updates for Depot: 152 available
+2020-09-22 12:27:05,074:INFO:No Palletline status updates for Depot: 182 available
+2020-09-22 12:28:53,515:INFO:No Palletline status updates for Depot: 152 available
+2020-09-22 12:32:26,754:INFO:Status file STAT_PL_182_20200922123226.xml uploaded to FCL
+2020-09-22 12:37:39,466:INFO:Status file STAT_PL_182_20200922123738.xml uploaded to FCL
+2020-09-22 12:37:39,945:INFO:No Palletline status updates for Depot: 152 available
+2020-09-22 12:38:11,379:INFO:No Palletline status updates for Depot: 182 available
+2020-09-22 12:40:38,247:INFO:No Palletline status updates for Depot: 182 available
+2020-09-22 12:47:04,528:INFO:Status file STAT_PL_182_20200922124703.xml uploaded to FCL
+2020-09-22 12:48:36,934:INFO:Status file STAT_PL_182_20200922124836.xml uploaded to FCL
+2020-09-22 12:48:37,203:ERROR:Failed to download POD's from Palletline
+2020-09-22 12:48:38,070:INFO:No Palletline status updates for Depot: 152 available
+2020-09-22 12:48:38,317:ERROR:Failed to download POD's from Palletline
+2020-09-22 12:50:02,721:INFO:No Palletline status updates for Depot: 182 available
+2020-09-22 12:52:35,518:INFO:No Palletline status updates for Depot: 182 available
+2020-09-22 12:53:39,729:INFO:No Palletline status updates for Depot: 182 available
+2020-09-22 13:58:48,630:INFO:Status file STAT_PL_182_20200922135847.xml uploaded to FCL
+2020-09-22 13:58:49,544:INFO:Status file STAT_PL_152_20200922135848.xml uploaded to FCL
+2020-09-22 13:59:45,676:INFO:No Palletline status updates for Depot: 182 available
+2020-09-22 14:00:13,107:INFO:No Palletline status updates for Depot: 182 available
+2020-09-22 14:00:56,512:INFO:No Palletline status updates for Depot: 182 available
+2020-09-22 14:00:57,291:INFO:No Palletline status updates for Depot: 152 available
+2020-09-22 14:03:24,958:INFO:Status file STAT_PL_182_20200922140324.xml uploaded to FCL
+2020-09-22 14:03:25,373:INFO:No Palletline status updates for Depot: 152 available
+2020-09-22 14:04:21,509:INFO:Status file STAT_PL_182_20200922140421.xml uploaded to FCL
+2020-09-22 14:04:22,655:INFO:No Palletline status updates for Depot: 152 available
+2020-09-22 14:08:25,629:INFO:No Palletline status updates for Depot: 182 available
+2020-09-22 14:08:26,595:INFO:No Palletline status updates for Depot: 152 available
+2020-09-22 14:08:58,088:INFO:No Palletline status updates for Depot: 182 available
+2020-09-22 14:08:58,977:INFO:No Palletline status updates for Depot: 152 available
+2020-09-22 14:19:56,489:INFO:Status file STAT_PL_182_20200922141956.xml uploaded to FCL
+2020-09-22 14:19:57,450:INFO:No Palletline status updates for Depot: 152 available
+2020-09-22 14:21:08,535:INFO:No Palletline status updates for Depot: 182 available
+2020-09-22 14:26:08,739:INFO:Status file STAT_PL_182_20200922142608.xml uploaded to FCL
+2020-09-23 11:34:51,860:INFO:Status file STAT_PL_182_20200923113449.xml uploaded to FCL
+2020-09-23 11:45:10,220:INFO:Status file STAT_PL_182_20200923114509.xml uploaded to FCL
+2020-09-23 11:51:50,907:INFO:Status file STAT_PL_182_20200923115149.xml uploaded to FCL
+2020-09-23 12:19:22,738:INFO:Status file STAT_PL_182_20200923121921.xml uploaded to FCL
+2020-09-23 12:23:00,471:INFO:Status file STAT_PL_182_20200923122258.xml uploaded to FCL
+2020-09-23 12:25:20,689:INFO:Status file STAT_PL_182_20200923122519.xml uploaded to FCL
+2020-09-23 12:25:23,438:INFO:Palletline POD's uploaded to FCL
+2020-09-23 12:25:26,167:INFO:Status file STAT_PL_152_20200923122523.xml uploaded to FCL
+2020-09-23 12:25:26,423:INFO:No Palletline POD's available
+2020-09-23 12:27:29,775:INFO:Status file STAT_PL_182_20200923122729.xml uploaded to FCL
+2020-09-24 12:24:53,647:INFO:Status file STAT_PL_182_20200924122452.xml uploaded to FCL
+2020-09-24 12:24:54,999:INFO:Palletline POD's uploaded to FCL
+2020-09-24 12:24:57,771:INFO:No Palletline status updates for Depot: 152 available
+2020-09-24 12:24:58,438:INFO:Palletline POD's uploaded to FCL
+2020-09-24 12:42:54,827:INFO:Status file STAT_PL_182_20200924124254.xml uploaded to FCL
+2020-09-24 12:42:56,573:INFO:Palletline POD's uploaded to FCL
+2020-09-24 12:42:56,862:INFO:No Palletline status updates for Depot: 152 available
+2020-09-24 12:42:57,092:INFO:No Palletline POD's available
+2020-09-24 12:45:02,223:INFO:No Palletline status updates for Depot: 182 available
+2020-09-24 12:45:03,872:INFO:Palletline POD's uploaded to FCL
+2020-09-24 12:45:04,138:INFO:No Palletline status updates for Depot: 152 available
+2020-09-24 12:45:04,396:INFO:No Palletline POD's available
+2020-09-24 12:54:40,200:INFO:Status file STAT_PL_182_20200924125439.xml uploaded to FCL
+2020-09-24 12:54:41,887:INFO:Palletline POD's uploaded to FCL
+2020-09-24 12:54:42,156:INFO:No Palletline status updates for Depot: 152 available
+2020-09-24 12:54:42,374:INFO:No Palletline POD's available
+2020-09-24 13:45:18,797:INFO:Status file STAT_PL_182_20200924134518.xml uploaded to FCL
+2020-09-24 13:45:20,521:INFO:Palletline POD's uploaded to FCL
+2020-09-24 13:45:20,829:INFO:No Palletline status updates for Depot: 152 available
+2020-09-24 13:45:21,060:INFO:No Palletline POD's available
+2020-09-24 13:47:18,576:INFO:No Palletline status updates for Depot: 182 available
+2020-09-24 13:47:20,233:INFO:Palletline POD's uploaded to FCL
+2020-09-24 13:47:20,488:INFO:No Palletline status updates for Depot: 152 available
+2020-09-24 13:47:20,706:INFO:No Palletline POD's available
+2020-09-24 13:48:38,888:INFO:No Palletline status updates for Depot: 182 available
+2020-09-24 13:48:40,552:INFO:Palletline POD's uploaded to FCL
+2020-09-24 13:48:40,810:INFO:No Palletline status updates for Depot: 152 available
+2020-09-24 13:48:41,034:INFO:No Palletline POD's available
+2020-09-24 14:00:33,022:INFO:Status file STAT_PL_182_20200924140032.xml uploaded to FCL
+2020-09-24 14:04:52,252:INFO:Status file STAT_PL_182_20200924140451.xml uploaded to FCL
+2020-09-24 14:06:08,657:INFO:Status file STAT_PL_182_20200924140608.xml uploaded to FCL
+2020-09-24 14:06:10,481:INFO:Palletline POD's uploaded to FCL
+2020-09-24 14:06:10,755:INFO:No Palletline status updates for Depot: 152 available
+2020-09-24 14:06:10,973:INFO:No Palletline POD's available
+2020-09-24 14:22:50,570:INFO:Status file STAT_PL_182_20200924142250.xml uploaded to FCL
+2020-09-24 14:22:52,216:INFO:Palletline POD's uploaded to FCL
+2020-09-24 14:22:52,524:INFO:No Palletline status updates for Depot: 152 available
+2020-09-24 14:22:52,746:INFO:No Palletline POD's available
+2020-09-24 14:26:14,152:INFO:No Palletline status updates for Depot: 182 available
+2020-09-24 14:28:21,087:INFO:No Palletline status updates for Depot: 182 available
+2020-09-24 15:15:10,296:INFO:Status file STAT_PL_182_20200924151509.xml uploaded to FCL
+2020-09-24 15:19:27,811:INFO:Status file STAT_PL_182_20200924151927.xml uploaded to FCL
+2020-09-24 15:19:28,046:INFO:No Palletline POD's available
+2020-09-24 15:19:28,631:INFO:Status file STAT_PL_152_20200924151928.xml uploaded to FCL
+2020-09-24 15:19:28,864:INFO:No Palletline POD's available
+2020-09-24 15:19:54,148:INFO:No Palletline status updates for Depot: 182 available
+2020-09-24 15:21:39,604:INFO:No Palletline status updates for Depot: 182 available
+2020-09-24 15:23:03,376:INFO:No Palletline status updates for Depot: 182 available
+2020-09-24 15:23:33,468:INFO:No Palletline status updates for Depot: 182 available
+2020-09-24 15:23:36,126:INFO:Palletline POD's uploaded to FCL
+2020-09-24 15:23:36,679:INFO:Status file STAT_PL_152_20200924152336.xml uploaded to FCL
+2020-09-24 15:23:36,922:INFO:No Palletline POD's available
+2020-09-24 15:27:51,308:INFO:Status file STAT_PL_182_20200924152750.xml uploaded to FCL
+2020-09-24 15:27:52,776:INFO:Palletline POD's uploaded to FCL
+2020-09-24 15:27:53,053:INFO:No Palletline status updates for Depot: 152 available
+2020-09-24 15:27:53,280:INFO:No Palletline POD's available
+2020-09-24 15:32:33,523:INFO:No Palletline status updates for Depot: 182 available
+2020-09-24 15:32:35,225:INFO:Palletline POD's uploaded to FCL
+2020-09-24 15:32:35,537:INFO:No Palletline status updates for Depot: 152 available
+2020-09-24 15:32:35,758:INFO:No Palletline POD's available
+2020-09-24 15:37:53,439:INFO:Status file STAT_PL_182_20200924153752.xml uploaded to FCL
+2020-09-24 15:37:54,964:INFO:Palletline POD's uploaded to FCL
+2020-09-24 15:37:55,546:INFO:Status file STAT_PL_152_20200924153755.xml uploaded to FCL
+2020-09-24 15:37:55,785:INFO:No Palletline POD's available
+2020-09-24 15:44:31,296:INFO:Status file STAT_PL_182_20200924154429.xml uploaded to FCL
+2020-09-24 15:44:32,556:INFO:Palletline POD's uploaded to FCL
+2020-09-24 15:44:32,794:INFO:No Palletline status updates for Depot: 152 available
+2020-09-24 15:44:33,557:INFO:Palletline POD's uploaded to FCL
+2020-09-24 16:03:33,522:INFO:No Palletline status updates for Depot: 182 available
+2020-09-24 16:03:35,099:INFO:Palletline POD's uploaded to FCL
+2020-09-24 16:03:35,409:INFO:No Palletline status updates for Depot: 152 available
+2020-09-24 16:03:36,064:INFO:Palletline POD's uploaded to FCL
+2020-12-04 13:48:43,124:INFO:Status file STAT_PL_182_20201204134840.xml uploaded to FCL
+2020-12-04 13:48:43,480:ERROR:Failed to download POD's from Palletline
+2020-12-19 11:39:29,932:INFO:No Palletline status updates for Depot: 182 available
+2020-12-19 11:39:30,718:ERROR:Failed to download POD's from Palletline
+2020-12-19 11:39:32,661:INFO:No Palletline status updates for Depot: 152 available
+2020-12-19 11:39:36,302:ERROR:Failed to download POD's from Palletline
+2020-12-19 11:51:01,770:INFO:No Palletline status updates for Depot: 182 available
+2020-12-19 11:51:02,135:ERROR:Failed to download POD's from Palletline
+2020-12-19 11:51:03,580:INFO:No Palletline status updates for Depot: 152 available
+2020-12-19 11:51:05,176:ERROR:Failed to download POD's from Palletline
+2020-12-19 11:52:14,296:INFO:No Palletline status updates for Depot: 182 available
+2020-12-19 11:52:14,641:ERROR:Failed to download POD's from Palletline
+2020-12-19 11:52:16,030:INFO:No Palletline status updates for Depot: 152 available
+2020-12-19 11:52:17,634:ERROR:Failed to download POD's from Palletline
+2020-12-19 11:53:00,899:INFO:No Palletline status updates for Depot: 182 available
+2020-12-19 11:53:01,184:INFO:No Palletline POD's available
+2020-12-19 11:53:01,416:INFO:No Palletline status updates for Depot: 152 available
+2020-12-19 11:53:03,000:ERROR:Failed to download POD's from Palletline
+2020-12-19 11:56:22,512:INFO:No Palletline status updates for Depot: 182 available
+2020-12-19 11:56:23,747:INFO:Palletline POD's uploaded to FCL
+2020-12-19 11:56:23,931:INFO:No Palletline status updates for Depot: 152 available
+2020-12-19 11:56:25,520:ERROR:Failed to download POD's from Palletline
+2020-12-19 12:04:07,705:INFO:No Palletline status updates for Depot: 182 available
+2020-12-19 12:04:08,970:INFO:Palletline POD's uploaded to FCL
+2020-12-19 12:04:09,171:INFO:No Palletline status updates for Depot: 152 available
+2020-12-19 12:04:11,430:INFO:Palletline POD's uploaded to FCL
+2021-02-08 09:54:53,223:INFO:Status file STAT_PL_182_20210208095451.xml uploaded to FCL
+2021-02-08 09:54:53,569:INFO:No Palletline POD's available
+2021-02-08 09:55:23,767:ERROR:Unable to connect to Palletline Web Service
+2021-02-08 09:56:53,201:INFO:Status file STAT_PL_182_20210208095651.xml uploaded to FCL
+2021-02-08 09:56:53,512:INFO:No Palletline POD's available
+2021-02-08 09:57:23,730:ERROR:Unable to connect to Palletline Web Service
+2021-02-08 10:33:40,059:INFO:Status file STAT_PL_182_20210208103338.xml uploaded to FCL
+2021-02-08 10:33:40,370:INFO:No Palletline POD's available
+2021-02-08 10:34:10,557:ERROR:Unable to connect to Palletline Web Service
+2021-02-08 10:36:47,610:INFO:Status file STAT_PL_182_20210208103645.xml uploaded to FCL
+2021-02-08 10:36:47,921:INFO:No Palletline POD's available
+2021-02-08 10:37:18,100:ERROR:Unable to connect to Palletline Web Service
+2021-02-08 10:37:59,329:INFO:Status file STAT_PL_182_20210208103757.xml uploaded to FCL
+2021-02-08 10:38:00,811:INFO:No Palletline POD's available
+2021-02-08 10:58:55,797:INFO:Status file STAT_PL_182_20210208105854.xml uploaded to FCL
+2021-02-08 10:58:56,109:INFO:No Palletline POD's available
+2021-02-08 10:59:01,212:INFO:Status file STAT_PL_152_20210208105856.xml uploaded to FCL
+2021-02-08 10:59:10,977:INFO:Palletline POD's uploaded to FCL
+2021-03-03 11:38:39,528:ERROR:Unable to connect to Palletline Web Service
+2021-03-03 11:39:04,503:ERROR:Unable to connect to Palletline Web Service
+2021-03-03 11:47:06,142:ERROR:Unable to connect to Palletline Web Service
+2021-03-03 11:48:01,549:ERROR:Unable to connect to Palletline Web Service
+2021-03-03 11:53:33,996:INFO:Status file STAT_PL_182_20210303115331.xml uploaded to FCL
+2021-03-03 11:53:34,358:INFO:No Palletline POD's available
+2021-03-03 11:53:38,025:INFO:Status file STAT_PL_152_20210303115334.xml uploaded to FCL
+2021-03-03 11:53:41,044:ERROR:Failed to download POD's from Palletline
+2021-03-03 11:54:50,693:INFO:No Palletline status updates for Depot: 182 available
+2021-03-03 11:54:50,986:INFO:No Palletline POD's available
+2021-03-03 11:54:51,180:INFO:No Palletline status updates for Depot: 152 available
+2021-03-03 11:54:54,099:ERROR:Failed to download POD's from Palletline
+2021-03-03 11:56:18,697:INFO:Status file STAT_PL_182_20210303115616.xml uploaded to FCL
+2021-03-03 11:56:19,041:INFO:No Palletline POD's available
+2021-03-03 11:56:27,179:INFO:Status file STAT_PL_152_20210303115619.xml uploaded to FCL
+2021-03-03 11:56:30,147:ERROR:Failed to download POD's from Palletline
+2021-03-03 11:56:45,301:INFO:No Palletline status updates for Depot: 182 available
+2021-03-03 11:56:47,892:INFO:Palletline POD's uploaded to FCL
+2021-03-03 11:56:48,089:INFO:No Palletline status updates for Depot: 152 available
+2021-03-03 11:56:50,977:ERROR:Failed to download POD's from Palletline
+2021-03-03 12:09:53,753:ERROR:Unable to connect to Palletline Web Service
+2021-04-16 16:45:29,511:INFO:Status file STAT_PL_182_20210416164527.xml uploaded to FCL
+2021-04-16 16:45:29,897:INFO:No Palletline POD's available
+2021-04-16 16:46:13,242:INFO:Status file STAT_PL_182_20210416164610.xml uploaded to FCL
+2021-04-16 16:46:13,612:INFO:No Palletline POD's available
+2021-04-16 16:46:33,642:INFO:Status file STAT_PL_152_20210416164613.xml uploaded to FCL
+2021-04-16 16:46:34,037:INFO:No Palletline POD's available
+2021-04-20 08:25:01,468:INFO:Status file STAT_PL_182_20210420082459.xml uploaded to FCL
+2021-04-20 08:25:01,765:INFO:No Palletline POD's available
+2021-04-22 16:04:16,901:ERROR:FTP Error: Status XML STAT_PL_182_20210422160412.xml failed FTP upload to FCL
+2021-04-23 11:02:50,431:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 11:04:58,190:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 11:05:20,185:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 11:10:19,182:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 11:11:27,997:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 11:12:32,353:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 11:19:28,103:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 11:19:29,770:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 11:21:14,212:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 11:21:32,898:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 11:25:26,816:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 11:43:18,069:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 11:46:14,926:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 11:47:28,387:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 11:47:35,992:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 11:50:33,634:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 12:04:21,373:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 12:31:20,551:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 12:34:08,450:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 12:35:43,168:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 12:35:43,654:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 13:03:06,339:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 13:20:45,505:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 13:22:44,000:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 13:22:44,548:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 13:23:03,734:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 13:25:50,224:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 13:38:32,324:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 13:41:04,869:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 13:41:35,736:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 13:43:07,917:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 13:43:08,302:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 13:43:24,230:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 13:45:07,203:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 13:45:07,551:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 13:49:28,222:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 13:49:56,353:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 13:51:37,237:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 13:51:52,743:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 13:58:48,018:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 13:59:57,468:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 14:00:20,502:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 14:02:53,287:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 15:13:46,892:ERROR:FTP Error: Status XML STAT_PL_182_20210423151324.xml failed FTP upload to FCL
+2021-04-23 15:14:33,986:ERROR:FTP Error: Status XML STAT_PL_182_20210423151428.xml failed FTP upload to FCL
+2021-04-23 15:16:51,040:INFO:Status file STAT_PL_182_20210423151649.xml uploaded to FCL
+2021-04-23 15:16:51,654:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 15:29:17,031:INFO:Status file STAT_PL_182_20210423152915.xml uploaded to FCL
+2021-04-23 15:29:17,617:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 15:30:26,135:INFO:Status file STAT_PL_182_20210423153008.xml uploaded to FCL
+2021-04-23 15:30:32,831:INFO:Status file STAT_PL_152_20210423153026.xml uploaded to FCL
+2021-04-23 15:47:05,186:INFO:Status file STAT_PL_182_20210423154702.xml uploaded to FCL
+2021-04-23 15:47:06,342:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 15:53:50,666:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 15:53:51,136:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 15:54:22,723:INFO:Status file STAT_PL_182_20210423155413.xml uploaded to FCL
+2021-04-23 15:55:03,937:INFO:Status file STAT_PL_152_20210423155422.xml uploaded to FCL
+2021-04-23 16:19:55,605:INFO:Status file STAT_PL_182_20210423161954.xml uploaded to FCL
+2021-04-23 16:19:56,693:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 16:22:45,125:INFO:Status file STAT_PL_182_20210423162244.xml uploaded to FCL
+2021-04-23 16:22:45,573:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 16:26:56,818:INFO:No Palletline status updates for Depot: 182 available
+2021-04-23 16:26:57,088:INFO:No Palletline POD's available
+2021-04-23 16:26:57,458:INFO:No Palletline status updates for Depot: 152 available
+2021-04-23 16:26:57,721:INFO:No Palletline POD's available
